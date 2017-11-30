@@ -1,3 +1,3 @@
 # probable-fortnight
-# this is a test.
-# learning git is a new skill.
+this is a test for git.
+learning git seems like a useful skill.
